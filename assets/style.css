@@ -1,0 +1,12 @@
+body{
+    background-color : #000000;
+}
+
+#picker{
+    width : 60%;
+    margin-left: 20%;
+}
+
+.row{
+    margin-top: 10px;
+}
