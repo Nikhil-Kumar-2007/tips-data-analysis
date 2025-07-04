@@ -1,4 +1,5 @@
 #  Interactive Analysis of Tips Datase
+* * *
 
 
 ## Description
@@ -45,6 +46,8 @@ Visualizes the distribution of Lunch vs. Dinner for each day, showing how much e
 1. `Python = 3.12.3`
 2. `Plotly = 6.2.0`
 3. `Dash = 3.1.1`
+* * *
+
 
 ## How To Run In Your Machine :-
 _Save Python file and give it to a name_
