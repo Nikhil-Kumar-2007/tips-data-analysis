@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-#  Interactive Analysis of Tips Datase
-* * *
-
-=======
 - - -
 # Interactive Analysis of Tips Datase
 * * *
->>>>>>> a058173 (update README file)
 
 ## Description
 
