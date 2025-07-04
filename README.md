@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 #  Interactive Analysis of Tips Datase
 * * *
 
+=======
+- - -
+# Interactive Analysis of Tips Datase
+* * *
+>>>>>>> a058173 (update README file)
 
 ## Description
 
@@ -54,7 +60,7 @@ _Save Python file and give it to a name_
 
 _tips dataset file and give name it to `tip.csv`_
 
-***Open Your Terminal/cmd and give command***
+***Open Your Terminal/cmd and type***
 ``` python
 python name_of_your_file.py
 ```
