@@ -1,4 +1,3 @@
-- - -
 # Interactive Analysis of Tips Datase
 * * *
 
